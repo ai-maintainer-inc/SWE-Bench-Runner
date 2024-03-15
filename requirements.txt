@@ -1,0 +1,6 @@
+pyarrow
+pydantic
+datasets
+pandas
+python-dotenv
+GitPython
