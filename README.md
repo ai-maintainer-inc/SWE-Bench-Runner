@@ -1,5 +1,12 @@
 # SWE-Bench-Runner
 
+This is part of a larger AI Maintainer Coding Agent Benchmarking effort.
+The other system loads via a docker a comprehensive set of benchmarks, loads an evaluation script and slurps a git repo and the benchmarks into it.
+
+Then you can run a specific repo against any of those tests. We found the agents were not good enough (<5% for Aider) and it was hard to financially make viable.
+
+If there is interest, we may open source that effort as well.
+
 # Getting Started
 
 Use the venv you use elsewhere, but `pip install -r requirements.txt`
